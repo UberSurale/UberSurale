@@ -26,3 +26,11 @@ I've been working as an English and French teacher for four straight years, and 
 ### Socials
 
 <p align="left"> <a href="https://www.behance.com/eba763cb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/UberSurale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/qer443zq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/алексей-тартыжов-90aa02276" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### What you can find here?
+
+Well, currently, I have three finished projects
+
+1. [Cat-energy](https://github.com/UberSurale/2109103-cat-energy-28) - everything about HTML5/CSS3. I used a lot of SCSS, Gulp, BEM methodology and everything that is required by modern html building
+2. [Kekstogram](https://github.com/UberSurale/2109103-cat-energy-28) - an app that copies early insta and it's build entirely on vanilla JS (dom api, ajax etc.)
+3. [MemoryGame](https://github.com/UberSurale/memory-game) - a game that helps you to train your memory. Choose from 3 sets of pictures and find a pair for each image! Entirely build on React js. by me
