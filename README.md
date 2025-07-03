@@ -8,7 +8,7 @@ I've been working as an English and French teacher for four straight years, and 
 
 I started my journey in IT as a Flutter developer and worked on many projects, but eventually decided to move into a QA position due to its flexibility. Oh boy, I love QA. You don't just write code — you make the product better.
 
-Know my way around ***UI***: https://dprofile.ru/case/102587/sait-centra-my
-Have strong ***project management*** skills: standups, weekly retrospectives, demos of new features — all on me (and I love it).
-Worked on ***AI projects*** (built a RAG-based customer support system for us).
-Currently learning ***Playwright + TypeScript***.
+* Know my way around ***UI***: https://dprofile.ru/case/102587/sait-centra-my
+* Have strong ***project management*** skills: standups, weekly retrospectives, demos of new features — all on me (and I love it).
+* Worked on ***AI projects*** (built a RAG-based customer support system for us).
+* Currently learning ***Playwright + TypeScript***.
